@@ -14,10 +14,10 @@ Recommendation system Collaborative filtering
 
 Part 2: 
 
-Data Mining: 
+Data Mining
 
-Linear Algebra: 
+Linear Algebra
 
-Statistical and Probabilistic Analysis: 
+Statistical and Probabilistic Analysis
 
-Hypothesis Testing:
+Hypothesis Testing
